@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.EBD7C59B-61CE-4602-B287-2779E580807D</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>EBD7C59B-61CE-4602-B287-2779E580807D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>enforcedSoftwareUpdateMajorOSDeferredInstallDelay</key>
+			<integer>90</integer>
+			<key>forceDelayedMajorSoftwareUpdates</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>AttentionPrefBundleIDs</key>
+			<dict>
+				<key>com.apple.FollowUpSettings.FollowUpSettingsExtension</key>
+				<integer>0</integer>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences.79A27D1C-7BF5-4194-BFB1-93BD2D0F3009</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>79A27D1C-7BF5-4194-BFB1-93BD2D0F3009</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AutomaticDownload</key>
+			<false/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.SoftwareUpdate.7B983E2D-1287-4E84-BCBE-ABF12382F566</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>7B983E2D-1287-4E84-BCBE-ABF12382F566</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Delay Major OS Update</string>
+	<key>PayloadIdentifier</key>
+	<string>dev.joshuapark.880DF8DC-ECB6-4FA2-A00B-BA671494C830</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>880DF8DC-ECB6-4FA2-A00B-BA671494C830</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
